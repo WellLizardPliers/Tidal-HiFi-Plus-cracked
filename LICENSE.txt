@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-tidal, tidal-hifi, tidal-plus-2026, tidal-premium, music-streaming, hi-res-audio, dolby-atmos, pro-software-2026, trial-software, windows-software-2026                            
+tidal, tidal-hifi, tidal-plus-2026, tidal-premium, music-streaming, hi-res-audio, dolby-atmos, pro-software-2026, trial-software, windows-software-2026                             
